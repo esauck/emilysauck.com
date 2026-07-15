@@ -1,0 +1,7 @@
+{
+  "name": "emilysauck-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "emilysauck.com — static site + Vercel serverless contact function. No build step, no dependencies."
+}
